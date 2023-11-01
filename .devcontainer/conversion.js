@@ -6,4 +6,6 @@ let isLoggedIn = 1
 let boolean =Boolean(isLoggedIn)
 console.log(boolean)
 //1=true
+
 //"" =false
+
